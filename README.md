@@ -1,1 +1,0 @@
-# classification-fire-images
